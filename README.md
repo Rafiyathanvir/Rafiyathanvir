@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://rafiyathanvir.io)
 <h1 align="center">Hi 👋, I'm RAFIYA Y</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding width="400"  border: 5px solid transparent;
+<img align="right" alt="Coding width="300"  border: 5px solid transparent;
  src="https://t4.ftcdn.net/jpg/03/13/35/29/360_F_313352906_sPxRbplAeA2NmTEV07kOopbSlvDWOXk6.jpg">
 
 
