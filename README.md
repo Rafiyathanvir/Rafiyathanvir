@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://rafiyathanvir.io)
 <h1 align="center">Hi 👋, I'm RAFIYA Y</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding width="400" src="https://t4.ftcdn.net/jpg/02/83/46/33/360_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg">
+<img align="right" alt="Coding width="400" src="https://media.istockphoto.com/id/903044512/vector/user-icon-vector-with-laptop-computer-female-person-profile-avatar-for-business-and-online.jpg?s=612x612&w=0&k=20&c=iLtKPgwQGblmh9pOgJxVDepyCYyxYnV29j5WEP28rOo=">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiyathanvir&label=Profile%20views&color=0e75b6&style=flat" alt="rafiyathanvir" /> </p>
